@@ -1,0 +1,6 @@
+<div class="alert alert-dark alert-dismissible">
+    <button class="btn-close" data-bs-dismiss="alert"></button>
+    Msg informativa
+    </div>
+
+    Lembrar de importar o js/css do bootstrap

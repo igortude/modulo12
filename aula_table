@@ -1,0 +1,29 @@
+<table class="table">
+        <caption>Tabela de produtos</caption>
+        <thead>
+            <th>Nome do Produto</th>
+            <th>Preço original</th>
+            <th>Preço atual</th>
+            <th>Desconto</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Iphone13</td>
+                <td>R$7.000,00</td>
+                <td>R$5.000,00</td>
+                <td>R$2.000,00</td>
+            </tr>
+            <tr>
+                <td>Iphone13</td>
+                <td>R$7.000,00</td>
+                <td>R$5.000,00</td>
+                <td>R$2.000,00</td>
+            </tr>
+            <tr>
+                <td>Iphone13</td>
+                <td>R$7.000,00</td>
+                <td>R$5.000,00</td>
+                <td>R$2.000,00</td>
+            </tr>
+        </tbody>
+    </table>
